@@ -1,0 +1,27 @@
+{
+  "name": "countries",
+  "country": [
+    { "id": "1", "name": "Austria", "flag": "🇦🇹", "url": "/companies/austria" },
+    { "id": "2", "name": "England", "flag": "🇬🇧", "url": "/companies/england" },
+    { "id": "3", "name": "Finland", "flag": "🇫🇮", "url": "/companies/finland" },
+    { "id": "4", "name": "France", "flag": "🇫🇷", "url": "/companies/france" },
+    { "id": "5", "name": "Germany", "flag": "🇩🇪", "url": "/companies/germany" },
+    { "id": "6", "name": "Ireland", "flag": "🇮🇪", "url": "/companies/ireland" },
+    { "id": "7", "name": "Italy", "flag": "🇮🇹", "url": "/companies/italy" },
+    {
+      "id": "8",
+      "name": "Netherlands",
+      "flag": "🇳🇱",
+      "url": "/companies/netherlands"
+    },
+    {
+      "id": "9",
+      "name": "New Zealand",
+      "flag": "🇳🇿",
+      "url": "/companies/newzealand"
+    },
+    { "id": "10", "name": "Norway", "flag": "🇳🇴", "url": "/companies/norway" },
+    { "id": "11", "name": "Spain", "flag": "🇪🇸", "url": "/companies/spain" },
+    { "id": "12", "name": "Sweden", "flag": "🇸🇪", "url": "/companies/sweden" }
+  ]
+}

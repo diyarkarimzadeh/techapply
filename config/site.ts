@@ -1,18 +1,36 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Next.js",
+  name: "Tech Apply",
   description:
-    "Beautifully designed components built with Radix UI and Tailwind CSS.",
+    "A list of all companies around the world that offer visa sponsorship.",
   mainNav: [
     {
       title: "Home",
       href: "/",
     },
+    {
+      title: "Companies",
+      href: "/companies",
+    },
+    {
+      title: "Suggest new company",
+      href: "/suggest",
+    },
+    {
+      title: "Donate me✨",
+      href: "https://idpay.ir/diyarkarimzadeh",
+      target: "_blank",
+    },
+    // {
+    //   title: "Developed by Diyar Karimzadeh☕",
+    //   href: "https://t.me/heydiyar",
+    //   target: "_blank",
+    // },
   ],
   links: {
-    twitter: "https://twitter.com/shadcn",
-    github: "https://github.com/shadcn/ui",
-    docs: "https://ui.shadcn.com",
+    twitter: "https://twitter.com/heydiyar",
+    github: "https://github.com/diyarkarimzadeh",
+    docs: "/companies",
   },
 }
