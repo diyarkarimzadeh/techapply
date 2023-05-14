@@ -32,5 +32,6 @@ export const siteConfig = {
     twitter: "https://twitter.com/heydiyar",
     github: "https://github.com/diyarkarimzadeh",
     docs: "/companies",
+    idpay: "https://idpay.ir/diyarkarimzadeh",
   },
 }

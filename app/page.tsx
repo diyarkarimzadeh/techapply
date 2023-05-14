@@ -26,10 +26,10 @@ export default function IndexPage() {
         <Link
           target="_blank"
           rel="noreferrer"
-          href={siteConfig.links.github}
+          href={siteConfig.links.idpay}
           className={buttonVariants({ variant: "outline", size: "lg" })}
         >
-          GitHub
+          Donate✨
         </Link>
       </div>
     </section>
